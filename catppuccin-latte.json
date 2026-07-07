@@ -49,7 +49,7 @@
     "customMessageText": "text",
     "customMessageLabel": "mauve",
     "toolPendingBg": "mantle",
-    "toolSuccessBg": "mantle",
+    "toolSuccessBg": "surface0",
     "toolErrorBg": "#e9c4cf",
     "toolTitle": "text",
     "toolOutput": "subtext0",

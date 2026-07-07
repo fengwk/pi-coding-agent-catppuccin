@@ -46,7 +46,7 @@ The theme is automatically installed and activated in Pi's settings.
 
 ## Design notes
 
-Follows official Catppuccin colors. The tool success background reuses the pending background (`mantle`), so successful tool calls keep their original color instead of turning green; only `toolErrorBg` uses the subtle 20% mix convention from [catppuccin/delta](https://github.com/catppuccin/delta/blob/main/catppuccin.gitconfig).
+Follows official Catppuccin colors. The tool success background uses `surface0` (one step brighter than the pending `mantle`) so completed calls are distinguishable without the harsh green of the original mix; only `toolErrorBg` uses the subtle 20% mix convention from [catppuccin/delta](https://github.com/catppuccin/delta/blob/main/catppuccin.gitconfig).
 
 ## License
 
